@@ -1,4 +1,6 @@
 # Base 64 encoding
+## Concept
+Click [here](https://www.youtube.com/watch?v=8qkxeZmKmOY&ab_channel=Ranthos) to watch a video that explains everything.
 ## Purpose of base 64
 One hexadecimal digit is of one nibble (4 bits). Two nibbles make 8 bits which are also called 1 byte.
 
