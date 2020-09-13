@@ -53,5 +53,6 @@ another microservice
 hasher
 1. checks the existing url from db
 2. if exists, return the shortened url
-3. applies murmur hash: h0
-4. if h0 exists, 
+3. applies sha256 hash: h0
+4. if h0 exists, provide the counter
+5. return the base64 encoding
